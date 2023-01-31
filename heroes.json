@@ -1,0 +1,43 @@
+{
+  "heroes": [
+    {
+      "id": "80e0f61a-cfc7-4365-b497-0d68f6e134f5",
+      "name": "Андрій",
+      "description": "bdbereg",
+      "element": "fire"
+    },
+    {
+      "id": "cf624537-0e1f-4132-9df2-d250de36c53f",
+      "name": "Наталя Мартиненко",
+      "description": "vfevwvw",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Вітер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
